@@ -15,7 +15,6 @@ _ReSharper*/
 *.pdb
 *.user
 *.aps
-
 J4Sales/J4Sales.Viewer/obj/
 *.pch
 *.vspscc
